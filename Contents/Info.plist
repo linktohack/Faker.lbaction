@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.linktohack.Sprunge.LaunchBar.action.Faker</string>
+	<string>com.linktohack.Faker</string>
 	<key>CFBundleName</key>
 	<string>Faker</string>
 	<key>LBDescription</key>
